@@ -7,7 +7,7 @@ Examples of some visual insights
 2. Log relation between predictor and response <br/>
 ![log_relation](https://github.com/avneet25/Model-for-predicting-House-Prices/assets/82283086/cca0c5b7-7579-4228-94a6-f79ea09aae0e)
 
-3. Categorical variable <br/>
+3. Categorical variable count plot <br/>
 ![count_plot_cat_variable](https://github.com/avneet25/Model-for-predicting-House-Prices/assets/82283086/b17360dd-d9a9-4d8c-9546-9d3d933ef384)
 
 
